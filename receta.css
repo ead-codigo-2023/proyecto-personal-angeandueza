@@ -21,7 +21,7 @@
 }
 
 .header {
-    background-image: url(/fotos/homemade-maple-granola-2752\ \(1\).jpg);
+    background-image: url("fotos/homemade-maple-granola-2752\ \(1\).jpg");
     background-repeat: no-repeat;
     background-size: 380px;
     border-radius: 20px;
